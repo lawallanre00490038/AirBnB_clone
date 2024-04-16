@@ -1,0 +1,25 @@
+/* Container -> Places */
+.container .places {
+  font-size: 30px;
+  padding: 20px;
+}
+
+.container .places article {
+  width: 390px;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #ff5a5f;
+  display: inline-block;
+}
+.container .places article:last-child {
+  margin-left: 240px;
+}
+
+.container .places article h1 {
+  font-size: 30px;
+}
+
+.container .places article h2 {
+  font-size: 30px;
+  text-align: center;
+}
